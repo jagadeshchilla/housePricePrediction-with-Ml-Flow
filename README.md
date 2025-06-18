@@ -30,7 +30,6 @@
 - [🎯 Usage Examples](#-usage-examples)
 - [🔄 Workflow](#-workflow)
 - [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
 
 ## 🎯 Project Overview
 
